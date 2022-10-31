@@ -3,3 +3,4 @@ Git練習
 あいうえお
 git rm
 git status
+git diff
